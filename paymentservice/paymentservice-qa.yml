@@ -1,2 +1,5 @@
-server:
-  port: 9090
+applicationconfiguration:
+  host: http://localhost
+  port:3305
+  username: payment-qa
+  password: payment-qa
